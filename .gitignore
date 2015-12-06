@@ -1,0 +1,6 @@
+install/paket.exe
+bin
+obj
+packages
+*.suo
+*.bak
