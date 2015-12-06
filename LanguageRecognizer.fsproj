@@ -120,8 +120,6 @@
     <None Include="Downloads.fsx" />
     <Compile Include="Part1.fsx" />
     <None Include="Part2.fsx" />
-    <None Include="Solution1.fsx" />
-    <None Include="Solution2.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
